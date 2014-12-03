@@ -6,8 +6,8 @@ Libstatusbar is chiefly a compatibility library for 3.x-like statusbar icon supp
 All icons should be placed in either:
 
 3.x style, does not support retina icons:
-Silver statusbar: /System/Library/CoreServices/SpringBoard/Default_<name>.png 
-Black statusbar:  /System/Library/CoreServices/SpringBoard/FSO_<name>.png
+Silver statusbar: /System/Library/CoreServices/SpringBoard.app/Default_<name>.png 
+Black statusbar:  /System/Library/CoreServices/SpringBoard.app/FSO_<name>.png
 
 4.x style, supports retina (@2x) icons:
 Silver statusbar: /System/Library/Frameworks/UIKit.framework/Silver_<name>.png
